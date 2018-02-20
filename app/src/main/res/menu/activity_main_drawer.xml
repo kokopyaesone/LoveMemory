@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <!--<item-->
+            <!--android:id="@+id/nav_patient_main"-->
+            <!--android:icon="@mipmap/patient_in_ward"-->
+            <!--android:title="@string/patients_main"/>-->
+
+        <!--<item
+            android:id="@+id/nav_patients_in_ward_list"
+            android:icon="@mipmap/patient_in_ward"
+            android:title="@string/patients_in_ward_list"/>
+
+        <item
+            android:id="@+id/nav_patients_admission_list"
+            android:icon="@mipmap/patient_transfer"
+            android:title="@string/patients_admission"/>-->
+
+        <!--<item-->
+            <!--android:id="@+id/nav_patient_registration"-->
+            <!--android:icon="@mipmap/patient_register"-->
+            <!--android:title="@string/patient_registration"/>-->
+
+        <!--<item-->
+            <!--android:id="@+id/nav_inventory"-->
+            <!--android:icon="@mipmap/inventory"-->
+            <!--android:title="@string/inventory"/>-->
+
+        <item
+            android:id="@+id/nav_love"
+            android:icon="@android:mipmap/sym_def_app_icon"
+            android:title="Love"/>
+
+        <!--<item-->
+            <!--android:id="@+id/nav_uhc_patient_registration"-->
+            <!--android:icon="@mipmap/patient_register"-->
+            <!--android:title="@string/uhc_patient_registration"/>-->
+
+        <item
+            android:id="@+id/nav_memory"
+            android:icon="@android:mipmap/sym_def_app_icon"
+            android:title="Memory"/>
+
+
+
+    </group>
+
+</menu>

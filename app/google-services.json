@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "340087411252",
+    "firebase_url": "https://clinic-9841b.firebaseio.com",
+    "project_id": "clinic-9841b",
+    "storage_bucket": "clinic-9841b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340087411252:android:938f09e6d55a3d8e",
+        "android_client_info": {
+          "package_name": "com.koekoetech.clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340087411252-do93inh0dhuhgrjkjiptv13jegmv889q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koekoetech.clinic",
+            "certificate_hash": "0df5b15e1c066bde3dc5d879581a0896bc8ecf3a"
+          }
+        },
+        {
+          "client_id": "340087411252-lgsu498nhn8a46jk1a0epdqbdfnaso52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvI-TXN8M3R1Whs6zA88ifYePFLCTVl5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340087411252-lgsu498nhn8a46jk1a0epdqbdfnaso52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
