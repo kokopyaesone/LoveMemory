@@ -1,13 +1,16 @@
 package kopyae.lovememory.com;
 
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.NavigationView;
+import android.support.v4.app.Fragment;
 import android.support.v4.widget.DrawerLayout;
+import android.view.MenuItem;
 
 import butterknife.BindView;
 
-public class MainActivity extends BaseActivity {
+public class MainActivity extends BaseActivity implements NavigationView.OnNavigationItemSelectedListener{
 
     private static final String TAG = MainActivity.class.getSimpleName();
 
@@ -40,5 +43,21 @@ public class MainActivity extends BaseActivity {
 
 
 
+    }
+
+    private void loadFragment(){
+
+    }
+    private Fragment getFragment(){
+
+    }
+
+    private void setupNavigationView(NavigationView navigationView){
+
+    }
+
+    @Override
+    public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+        return false;
     }
 }
